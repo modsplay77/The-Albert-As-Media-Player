@@ -11,6 +11,12 @@ Nota: Para parar el reproductor no basta con cerrar la app, debes marcar "Stop" 
 
 Esta Beta es para que echeis mierdas y deis ideas xDDDD
 
+Notas técnicas:
+SDK target API23
+Sin acceso a internet, 
+sin tener que registrarse ni tener ninguna sospecha de que la app utilice vuestros datos.
+Nadie puede acceder a vusestro dispositivo desde internet utilizando algun bug de la app.
+
 
 Un saludo del
 Equipo Modsplay
